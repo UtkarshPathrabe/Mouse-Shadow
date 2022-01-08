@@ -5,4 +5,4 @@ Mouse Shadow
 
 Mouse Shadow created using JavaScript  
 
-![Main Page](./assets/main_page.png)  
+![Main Page](./assets/mouse_shadow.gif)  
